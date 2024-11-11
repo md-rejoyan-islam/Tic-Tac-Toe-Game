@@ -24,7 +24,7 @@ A modern, responsive Tic-Tac-Toe game built with React, Vite, and Framer Motion.
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/tic-tac-toe-game.git
+   git clone https://github.com/md-rejoyan-islam/Tic-Tac-Toe-Game
    cd tic-tac-toe-game
    ```
 
@@ -60,4 +60,4 @@ This will generate a `dist` folder with the production-ready files.
 
 ## Live Demo
 
-[Live Demo](https://tic-tac-toe-game.netlify.app/)
+[Live Demo](https://tic-tac-toe-game-typescript.vercel.app)
