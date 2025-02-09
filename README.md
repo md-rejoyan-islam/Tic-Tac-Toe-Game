@@ -58,7 +58,7 @@ This will generate a `dist` folder with the production-ready files.
 - `src/index.css`: Global styles and Tailwind CSS imports
 - `tailwind.config.js`: Tailwind CSS configuration
 
-## Live Demo
+## Links
 
 [Live Demo](https://tic-tac-toe-game-typescript.vercel.app)
 
