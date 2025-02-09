@@ -61,3 +61,14 @@ This will generate a `dist` folder with the production-ready files.
 ## Live Demo
 
 [Live Demo](https://tic-tac-toe-game-typescript.vercel.app)
+
+[Github Repository](https://github.com/md-rejoyan-islam/Tic-Tac-Toe-Game)
+
+### Contact
+
+If you have any questions or suggestions, feel free to reach out:
+
+- Email : rejoyanislam0014@gmail.com
+- GitHub : [Rejoyan Islam GitHub](https://github.com/md-rejoyan-islam)
+- LinkedIn : [Rejoyan Islam LinkedIn](https://www.linkedin.com/in/md-rejoyan-islam/)
+- Personal Website : [Rejoyan Islam Portfolio](https://md-rejoyan-islam.github.io/)
